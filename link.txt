@@ -1,0 +1,190 @@
+ကလေးတွေ အတွက် target ထားရေးပေးထားတာပါ
+သူတို့အတွက် နည်းနည်းလေး အထောက်အကူဖြစ်တယ်ဆိုရင်
+ကျေနပ်ပါတယ် 
+
+************************
+
+JavaScript ( Data Types ) 
+https://www.facebook.com/permalink.php?story_fbid=122116273274102747&id=61553082429213
+
+JavaScript ( var, let and const )
+https://www.facebook.com/permalink.php?story_fbid=122118259580102747&id=61553082429213
+
+JavaScript ( Truthy and Falsy )
+https://www.facebook.com/permalink.php?story_fbid=122104591670102747&id=61553082429213
+
+JavaScript ( Array Methods )
+https://www.facebook.com/permalink.php?story_fbid=122119703228102747&id=61553082429213
+
+JavaScript ( Classes )
+https://www.facebook.com/permalink.php?story_fbid=122118751544102747&id=61553082429213
+
+JavaScript ( Generator functions )
+https://www.facebook.com/permalink.php?story_fbid=122118992966102747&id=61553082429213
+
+DOM ( Document Object Model )
+https://www.facebook.com/permalink.php?story_fbid=122122033832102747&id=61553082429213
+
+JavaScript ( Simple Calculator )
+https://www.facebook.com/permalink.php?story_fbid=122122039028102747&id=61553082429213
+
+JavaScript ( Object vs Map )
+https://www.facebook.com/permalink.php?story_fbid=122127110000102747&id=61553082429213
+
+JavaScript ( charCodeAt vs String.fromCharCode)
+https://www.facebook.com/permalink.php?story_fbid=122127663404102747&id=61553082429213
+
+JavaScript ( Local Storage, Session Storage And Cookies )
+https://www.facebook.com/permalink.php?story_fbid=122125833026102747&id=61553082429213
+
+JavaScript ( rest parameter and spread operator )
+https://www.facebook.com/permalink.php?story_fbid=122118265934102747&id=61553082429213
+
+JavaScript ( Closures )
+https://www.facebook.com/permalink.php?story_fbid=122117276690102747&id=61553082429213
+
+JavaScript ( Arrow Function )
+https://www.facebook.com/permalink.php?story_fbid=122117844080102747&id=61553082429213
+
+JavaScript ( Recursion )
+https://www.facebook.com/permalink.php?story_fbid=122117531954102747&id=61553082429213
+
+Memoization
+https://www.facebook.com/permalink.php?story_fbid=122117530430102747&id=61553082429213
+
+JavaScript ( Scope )
+https://www.facebook.com/permalink.php?story_fbid=122117172722102747&id=61553082429213
+
+JavaScript ( Currying )
+https://www.facebook.com/permalink.php?story_fbid=122117167724102747&id=61553082429213
+
+JavaScript ( call(), apply() and, bind() methods )
+https://www.facebook.com/permalink.php?story_fbid=122117164802102747&id=61553082429213
+
+JavaScript ( First Class Function vs Higher Order Function )
+https://www.facebook.com/permalink.php?story_fbid=122116786844102747&id=61553082429213
+
+JavaScript ( Passed by value and Passed by reference )
+https://www.facebook.com/permalink.php?story_fbid=122116539152102747&id=61553082429213
+
+JavaScript ( Error Handling )
+https://www.facebook.com/permalink.php?story_fbid=122124847058102747&id=61553082429213
+
+JavaScript ( Callback )
+https://www.facebook.com/permalink.php?story_fbid=122124680258102747&id=61553082429213
+
+JavaScript ( Execution Context )
+https://www.facebook.com/permalink.php?story_fbid=122126748758102747&id=61553082429213
+
+JavaScript ( Asynchronous )
+https://www.facebook.com/permalink.php?story_fbid=122126504744102747&id=61553082429213
+
+JavaScript ( Promises )
+https://www.facebook.com/permalink.php?story_fbid=122118518198102747&id=61553082429213
+
+JavaScript ( Browser Event Loop )
+https://www.facebook.com/permalink.php?story_fbid=122126963948102747&id=61553082429213
+
+Regular expressions
+https://www.facebook.com/permalink.php?story_fbid=122120488190102747&id=61553082429213
+
+************************
+
+CSS ( Grid - Part 1 )
+https://www.facebook.com/permalink.php?story_fbid=122126013260102747&id=61553082429213
+
+CSS ( Grid - Part 2 )
+https://www.facebook.com/permalink.php?story_fbid=122126275238102747&id=61553082429213
+
+************************
+
+React - Part 1 (Installation)
+https://www.facebook.com/permalink.php?story_fbid=122122796270102747&id=61553082429213
+
+React - Part 2 ( JSX )
+https://www.facebook.com/permalink.php?story_fbid=122123441306102747&id=61553082429213
+
+React - Part 3 ( Components )
+https://www.facebook.com/permalink.php?story_fbid=122123634962102747&id=61553082429213
+
+React - Part 4 ( Adding styles )
+https://www.facebook.com/permalink.php?story_fbid=122123784512102747&id=61553082429213
+
+React - Part 5 ( Components - Exercise )
+https://www.facebook.com/permalink.php?story_fbid=122124399152102747&id=61553082429213
+
+React - Part 6 ( State )
+https://www.facebook.com/permalink.php?story_fbid=122125091378102747&id=61553082429213
+
+React - Part 7 ( To Do List )
+https://www.facebook.com/permalink.php?story_fbid=122125510688102747&id=61553082429213
+
+React - Part 8 ( To Do List )
+https://www.facebook.com/permalink.php?story_fbid=122125608332102747&id=61553082429213
+
+************************
+
+Data Structure -  Part 1 ( JavaScript )
+https://www.facebook.com/permalink.php?story_fbid=122120910536102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 2 ( Stack )
+https://www.facebook.com/permalink.php?story_fbid=122121070406102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 3 ( Queue )
+https://www.facebook.com/permalink.php?story_fbid=122121335102102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 3 ( Queue )
+https://www.facebook.com/permalink.php?story_fbid=122121335102102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 4 ( Priority Queue )
+https://www.facebook.com/permalink.php?story_fbid=122121495590102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 5 ( Circular Queue )
+https://www.facebook.com/permalink.php?story_fbid=122121709004102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 6 ( Linked List -  only head)
+https://www.facebook.com/permalink.php?story_fbid=122122577432102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 7 ( Doubly Linked List )
+https://www.facebook.com/permalink.php?story_fbid=122124024992102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 8 ( Circular Linked List )
+https://www.facebook.com/permalink.php?story_fbid=122124190994102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 9 ( Dictionaries )
+https://www.facebook.com/permalink.php?story_fbid=122127498776102747&id=61553082429213
+
+Data Structures in JavaScript -  Part 10 ( Simple Hash Table )
+https://www.facebook.com/permalink.php?story_fbid=122127818864102747&id=61553082429213
+
+************************
+
+JavaScript Design Patterns ( Prototype design pattern )
+https://www.facebook.com/permalink.php?story_fbid=122117940242102747&id=61553082429213
+
+************************
+
+Tips
+
+Frontend vs Backend
+https://www.facebook.com/permalink.php?story_fbid=122105978480102747&id=61553082429213
+
+Codewars
+https://www.facebook.com/permalink.php?story_fbid=122119930736102747&id=61553082429213
+
+Tips for Junior ( နှစ်ကူးလက်ဆောင် )
+https://www.facebook.com/permalink.php?story_fbid=122122444970102747&id=61553082429213
+
+Roadmap
+https://www.facebook.com/permalink.php?story_fbid=122123066066102747&id=61553082429213
+
+Developer စလုပ်မယ်ဆိုရင်
+https://www.facebook.com/permalink.php?story_fbid=122124254252102747&id=61553082429213
+
+Project Workflow
+https://www.facebook.com/permalink.php?story_fbid=122128033250102747&id=61553082429213
+
+HackerRank
+https://www.facebook.com/permalink.php?story_fbid=122127374078102747&id=61553082429213
+
+🍀🍀🍀🍀

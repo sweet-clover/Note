@@ -1,0 +1,89 @@
+Project Workflow
+
+ကျနော်တို့ရုံးက flow ကို ပြောပြပေးပါမယ်
+တစ်ရုံးနဲ့ တစ်ရုံး ကွာခြားချက်တွေရှိနိုင်ပါတယ်
+
+Project တစ်ခုစပြီးဆိုရင် 
+
+Business Analyst က
+requirement တွေကို gathering လုပ်တယ်
+requirement တွေရလာပြီဆိုရင်
+
+UI/UX Designer တွေက Design တွေဆွဲတယ်
+
+Project Manager က Developer တွေကို
+assign ခွဲပေးတယ်
+
+Developer တွေက ရေးတယ်
+ 
+ရေးပြီးရင် Quality Assurance (QA)
+တွေက စစ်တယ်
+
+အဲ့ flow နဲ့သွားကြတယ်
+
+အဲ့တာကလည်းကိုယ်လျှောက်တဲ့ company ပေါ်မူတည်ပါတယ်
+Family Type ဆိုတာနဲ့တိုးရင် ဒါတွေအကုန်လုံးကို
+နှစ်ယောက်လောက်နဲ့ လုပ်ရနိုင်ပါတယ် :P
+
+ဒါက Team Structure ပါ
+(TEAM ဆိုတာက Together, Everyone, Achieves, More)
+
+...........................
+
+Project အတွက်ဆိုရင် Waterfall နဲ့ Agile ဆိုပြီးခွဲထားတယ်
+
+အလွယ်ပြောမယ်ဆိုရင်
+Waterfall ဆိုတာက project အစ/အဆုံးပြီးမှ
+Client ကိုပေးစစ်တာ 
+
+Agile က Client သုံးလို့ရအောင် Module လေးတွေခွဲခွဲပေးတာ
+ဆိုပြီးမှတ်လို့ရတယ်
+
+Example, E-commerce တစ်ခုမှာဆိုရင်
+Product နဲ့ပတ်သတ်တာတွေ Module တစ်ခုရှိမယ်
+Order Management Module
+Shipping Module
+Authentication/Authorization Module
+Payment Module
+Report အဲ့တာတွေပါမယ်
+
+Waterfall ဆိုရင် အဲ့ Module အကုန်ပြီးမှ Client ကိုပေးလိုက်တယ်
+Client က field တစ်ခုထပ်တိုးချင်တယ်/ဒါမလိုချင်ဘူး ဆိုရင် 
+ကျန်တဲ့ နေရာတွေမှာပါ လိုက်ပြင်ရနိုင်တယ် 
+
+
+Agile ဆိုရင် Product Module အရင်ရေးမယ်
+Client ကို ပေးမယ် Client က ထည့်ချင်တာရှိရင် ထည့်ပေးလိုက်မယ်
+ပြီးရင် Order Module ဆက်ရေးမယ် Client ကို ပေးစစ်မယ်
+နောက်ဆုံး Report တွေလည်း အပြီး Client လည်းတန်းသုံးလို့ရမယ်
+
+
+...........................
+
+
+Process Flow တစ်ချက်ကြည့်မယ်
+
+Dev တွေက ရေးမယ် သူတို့ TEAM LEADER က Manage လုပ်မယ်
+ပြီးရင်  SIT (System Integration Test) ပေါ်တင်တယ်
+(Test Case တွေရေးတယ်/ QA တွေစစ်ကြတယ်)
+
+SIT Pass ဖြစ်ရင် 
+UAT (User Acceptance Test) ပေါ်တင်ပြီး Client ကို ပေးစစ်လိုက်တယ်
+
+Project တစ်ခုလုံးပြီးမှ PROD တင်တာ
+PROD (Production) -> Public User
+
+Dev Team က ပထမစစချင်: Product Module ရေးပြီးရင် SIT ပေါ်တင်လိုက်တယ် ပြီးရင် Order ဆက်ရေးမယ်
+
+အဲ့တော့  SIT ပေါ်မှာ ရှိတဲ့ Code က Developer ဆက်ရေးနေတာနဲ့ မတူနိုင်ဘူး UAT က Code ကလည်း SIT နဲ့ မတူနိုင်တွေရှိနိုင်တယ်
+
+Code က Version တွေ အများကြီးရှိနိုင်တယ်
+အဲ့တာကို Handle လုပ်ဖို့ GIT သုံးကြတယ်
+GIT - Version control system 
+
+မသုံးရင် local မှာ folder အများကြီးနဲ့ 
+မျက်ရည်ထိုင်သုတ်နေရပါမယ် :P
+ 
+...........................
+
+🍀🍀🍀🍀

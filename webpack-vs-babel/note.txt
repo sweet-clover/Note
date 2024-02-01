@@ -1,0 +1,82 @@
+Babel vs Webpack 
+
+Babel က translator နဲ့တူတယ် 
+
+ES6/ES7 code တွေကို ES5 JavaScript ပြောင်းပေးနိုင်တယ်
+ဘာလို့လိုလဲဆိုရင် ECMAScript Version အသစ်တွေကို 
+browser တိုင်းက support မလုပ်နိုင်လို့
+Internet Explorer browser version 6 to 11 က ES6 ကို
+support မလုပ်နိုင်ဘူး ကျနော်တို့ ES6 သုံးပြီးရေးထားတဲ့
+Code လေးတွေ အလုပ်လုပ်အောင် Babel လိုတယ်
+
+// ES6 arrow function
+const greet = (name) => {
+  console.log(`Hello, ${name}!`);
+};
+
+// ES5 equivalent of arrow function
+var greet = function greet(name) {
+  console.log("Hello, " + name + "!");
+};
+
+အဲ့လိုပြောင်းပေးလိုက်တယ်
+
+..................
+
+JSX Code တွေကို React Element ပြောင်းပေးတဲ့နေရာမှာလည်းသုံးတယ်
+ကျနော်တို့က React မှာ Element တစ်ခု ရေးတယ်
+<h1>Hello</h1> အဲ့လို ရေးမရရဘူး 
+
+React Create Element သုံးပြီးရေးမှ ရမှာ
+React.createElement("h1", null, "Hello"); ဒီလိုရေးရမှာ
+
+ဒါပေမယ့် <h1>Hello</h1> အဲ့လို ရေးကြည့်တာ ရနေတယ်လေ
+ဘာလို့လဲဆိုရင် Babel က ပြောင်းပေးလိုက်လို့
+
+Babel က JavaScript compiler လို့လည်းခေါ်တယ်
+transpiler လို့လည်းပြောကြတယ် :P
+
+.................
+
+
+Webpack က JS Build Tools ထဲမှာပါတယ်
+သူ့က က static module bundler
+
+
+React မှာ Project ကို server ပေါ်တယ်ဆိုရင်
+npm run build ဆိုပြီး build folder ထုတ်တယ်လေ
+အဲ့ build folder က Webpack ကို သုံးပြီးထုတ်ထားတာ
+server ပေါ်တင်ရင် အဲ့ folder လေးတင်ရင်ရပြီ
+
+Code sample ကို ကြည့်ကြည့်
+//webpack.config.js
+
+const path = require('path');
+
+module.exports = {
+  entry: './path/to/my/entry/file.js',
+  output: {
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'my-first-webpack.bundle.js',
+  },
+};
+
+entry က ဒီ file က စရမယ်ဆိုပြီး လမ်းကြောင်းပေးထားတာ
+
+output မှာ ဆိုရင် folder path ကို ညွှန်းထားတာ
+directory ထဲမှာ dist folder ဆောက်ပြီး
+build လုပ်ထားတဲ့ files တွေကို သွားသိမ်းမှာ
+
+အခု react project မှာက build လုပ်လို့ရနေတယ်လေ
+config ထည့်စရာမှမလိုဘူး ဘာလို့လိုလဲဆိုရင်
+ကျနော်တို့က create-react-app ကိုသုံးပြီး 
+react installation လုပ်ထားလို့ သူက 
+webpack ကို configured ချထားပြီးသား
+
+https://webpack.js.org/concepts/
+https://babeljs.io/
+
+အနည်းဆုံးတော့ Babel က ဘာလို့သုံးတာဆိုတာနဲ့
+Webpack က ဘာလို့လိုတာလောက်ကို အရင်နားလည်ရင်ရပါပြီ
+
+🍀🍀🍀🍀
